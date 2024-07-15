@@ -1,5 +1,6 @@
 {
   "name": "opensea_support",
+  "homepage": "https://opensea.support-hq.info/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
