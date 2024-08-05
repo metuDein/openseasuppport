@@ -55,14 +55,7 @@ const WhatAreGasFees = () => {
                     <br />
                     <h2 className="text-2xl font-semibold">  When are gas fees needed on OpenSea?</h2>
                     <br />
-                    <p className="text-[16px] p-6 rounded-md bg-[#c8d7e6] border border-solid">
-                        ⚠️ Be aware of common phishing attempts. "Buyers" may claim they're experiencing an error when trying to purchase an item by messaging the seller with screenshots. OpenSea will never DM you first on social media or ask you to send funds to OpenSea in order to sell an item or resolve a transaction failure.
-                        <br />
-                        <br />
-                        You can learn more about staying safe in web3 in our help guide. If you're experiencing a phishing attempt, here's how to report it.
 
-
-                    </p><br />
                     <p className="text-[16px]">
 
 
